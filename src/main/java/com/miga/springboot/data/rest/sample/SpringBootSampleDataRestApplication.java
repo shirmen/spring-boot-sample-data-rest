@@ -1,8 +1,8 @@
-package com.example.demo;
+package com.miga.springboot.data.rest.sample;
 
-import com.example.demo.domain.Player;
-import com.example.demo.domain.Team;
-import com.example.demo.repository.TeamRepository;
+import com.miga.springboot.data.rest.sample.domain.Player;
+import com.miga.springboot.data.rest.sample.domain.Team;
+import com.miga.springboot.data.rest.sample.repository.TeamRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

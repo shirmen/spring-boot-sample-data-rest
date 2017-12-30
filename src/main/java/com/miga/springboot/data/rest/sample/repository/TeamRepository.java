@@ -1,6 +1,6 @@
-package com.example.demo.repository;
+package com.miga.springboot.data.rest.sample.repository;
 
-import com.example.demo.domain.Team;
+import com.miga.springboot.data.rest.sample.domain.Team;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RestResource;
 

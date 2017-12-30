@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.miga.springboot.data.rest.sample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

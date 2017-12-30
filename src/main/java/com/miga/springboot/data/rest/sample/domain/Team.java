@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.miga.springboot.data.rest.sample.domain;
 
 import javax.persistence.*;
 import java.util.Set;
